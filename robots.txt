@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /blog/admin/
+Disallow: /admin/
+Disallow: /login/
+Sitemap: https://plyofitacademy.com/sitemap.xml
